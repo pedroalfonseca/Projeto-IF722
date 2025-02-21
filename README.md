@@ -1,4 +1,4 @@
-# Avaliação do Impacto de Técnicas Avançadas de Engenharia de Prompt na Elicitação de Requisitos Baseada em LLM
+# Aprimoramento da Elicitação de Requisitos Baseada em LLM com Engenharia de Prompt
 
 ## Descrição
 
